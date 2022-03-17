@@ -1,5 +1,5 @@
 # NCursesRogulikeOnSwift
-Simple roguelike game that runs on a terminal and using NCurses and Swift
+Simple roguelike game that runs on a terminal, uses NCurses and Swift
 
 To run type on terminal `swift *path to the file*`
 
